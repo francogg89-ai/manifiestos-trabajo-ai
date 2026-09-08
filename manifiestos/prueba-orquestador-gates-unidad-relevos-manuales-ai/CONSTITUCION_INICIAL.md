@@ -3,7 +3,7 @@
 Esta constitución inicial fue materializada conforme a
 https://github.com/francogg89-ai/metodo-manifiestos-ai
 en el commit exacto
-b22a0ff7c5e762a1990c0607bcbd0d943ee30f05.
+452d8cce2dd36106e0efce0c957b951c713fdcc8.
 
 WORK_ID=prueba-orquestador-gates-unidad-relevos-manuales-ai
 CARRIL=L
@@ -22,7 +22,7 @@ MANIFEST_SHA=294b8de4ba7b11ba0272bae29910d1a12ae29d3e
 
 RULES_REPO=https://github.com/francogg89-ai/rules-orchestrator-ai
 RULES_PATH=REGLAS-ORQUESTADOR.md
-RULES_SHA=be1e7d7a5e8f02c16bdc24c6cec4295c9184b5d6
+RULES_SHA=e04e653fe6b9d3f394c18dee18274090ddb79ff9
 
 WORK_REPO=https://github.com/francogg89-ai/work-claude-l
 AUDIT_REPO=https://github.com/francogg89-ai/audit-chatgpt-l
@@ -42,7 +42,7 @@ REPOS_GITHUB_DISPONIBLES:
 - REPO=https://github.com/francogg89-ai/manifiestos-trabajo-ai
   FUNCION=biblioteca durable del manifiesto y de esta constitución
 - REPO=https://github.com/francogg89-ai/metodo-manifiestos-ai
-  SHA=b22a0ff7c5e762a1990c0607bcbd0d943ee30f05
+  SHA=452d8cce2dd36106e0efce0c957b951c713fdcc8
   FUNCION=método usado para materializar esta constitución; sólo lectura durante la ejecución
 - REPO=https://github.com/francogg89-ai/work-claude-l
   FUNCION=superficie material exclusiva del CONSTRUCTOR
@@ -52,7 +52,7 @@ REPOS_GITHUB_DISPONIBLES:
   SHA=4d88fce3ed3c87bd231c45ec60dcb713538b2514
   FUNCION=método autoritativo de ejecución; sólo lectura para este trabajo
 - REPO=https://github.com/francogg89-ai/rules-orchestrator-ai
-  SHA=be1e7d7a5e8f02c16bdc24c6cec4295c9184b5d6
+  SHA=e04e653fe6b9d3f394c18dee18274090ddb79ff9
   FUNCION=reglas autoritativas del ORQUESTADOR; sólo lectura para los actores
 
 REPOS_LOCALES_DISPONIBLES:
@@ -62,6 +62,20 @@ REPOS_LOCALES_DISPONIBLES:
 - AUDIT_LOCAL=C:/Franco_Metodos_AI/audit-chatgpt-l
 - REVOLUTIONS_LOCAL=C:/Franco_Metodos_AI/orchestra-revolutions-ai
 - RULES_ORCHESTRATOR_LOCAL=C:/Franco_Metodos_AI/rules-orchestrator-ai
+
+SOURCE_REPOS:
+- REPO=https://github.com/francogg89-ai/orchestra-revolutions-ai
+  SHA=4d88fce3ed3c87bd231c45ec60dcb713538b2514
+  FUNCION=método autoritativo de ejecución
+- REPO=https://github.com/francogg89-ai/rules-orchestrator-ai
+  SHA=e04e653fe6b9d3f394c18dee18274090ddb79ff9
+  FUNCION=reglas autoritativas del transporte
+- REPO=https://github.com/francogg89-ai/metodo-manifiestos-ai
+  SHA=452d8cce2dd36106e0efce0c957b951c713fdcc8
+  FUNCION=método de constitución usado para este trabajo
+- REPO=https://github.com/francogg89-ai/manifiestos-trabajo-ai
+  SHA=294b8de4ba7b11ba0272bae29910d1a12ae29d3e
+  FUNCION=biblioteca que contiene el manifiesto humano aprobado
 
 ROOT_LOCAL=C:/Franco_Metodos_AI
 
